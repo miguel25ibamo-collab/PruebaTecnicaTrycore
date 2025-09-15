@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {"transactionType": "SELL", "productType": "COAL", "quantity": 455, "unitValue": 996812},
+    {"transactionType": "SELL", "productType": "GOLD", "quantity": 466, "unitValue": 1710024},
+    {"transactionType": "SELL", "productType": "COAL", "quantity": 442, "unitValue": 1202229},
+    {"transactionType": "SELL", "productType": "GOLD", "quantity": 318, "unitValue": 989353},
+    {"transactionType": "SELL", "productType": "COAL", "quantity": 225, "unitValue": 1548744},
+    {"transactionType": "BUY", "productType": "GOLD", "quantity": 289, "unitValue": 1077073},
+    {"transactionType": "BUY", "productType": "TIMBER", "quantity": 430, "unitValue": 878675},
+    {"transactionType": "BUY", "productType": "IRON", "quantity": 428, "unitValue": 574740}
+  ]
+}

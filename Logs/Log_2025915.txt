@@ -1,0 +1,125 @@
+3:32:19 | INFO | Inicia cargue de variables iniciales del orquestador
+3:32:24 | INFO | Iniciando módulo de login, carga de variables iniciales
+3:32:26 | INFO | Ingresando credenciales para inicio de sesión
+3:32:38 | INFO | Validando ingreso correcto al inicio principal del aplicativo web
+3:32:40 | INFO | Validando ingreso de credenciales correcto
+3:32:56 | INFO | Finalización de módulo de login
+3:32:56 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+3:32:58 | INFO | Extrayendo información de la página web
+3:32:58 | INFO | Extrayendo tabla de la página 1
+3:33:3 | INFO | Extrayendo tabla de la página 2
+3:33:8 | INFO | Extrayendo tabla de la página 3
+3:33:16 | INFO | Información capturada, parseando datos a formato json
+3:33:16 | INFO | Consumo de api, utilizando endpoint para realizar validaciones de stock
+3:33:17 | INFO | Consumo de api, utilizando endpoint para realizar validaciones de product
+3:33:17 | INFO | Obteniendo datos del endpoint de stock para ingresar en inputs
+3:33:17 | INFO | Validando si el valor de los datos son negativos o positivos
+3:33:25 | INFO | Datos insertados correctamente
+3:33:25 | INFO | Obteniendo datos del endpoint de product para ingresar en inputs
+3:33:25 | INFO | Dato del product insertado correctamente
+3:33:26 | INFO | Fin del MD02
+3:33:26 | INFO | Inicio de MD03, validación de estados
+3:33:30 | INFO | Validación OK, datos insertados correctamente
+3:33:31 | INFO | Validación OK, datos insertados correctamente
+3:33:31 | INFO | Validación OK, datos insertados correctamente
+3:33:32 | INFO | Validación OK, datos insertados correctamente
+3:33:32 | INFO | Validación OK, datos insertados correctamente
+3:33:33 | INFO | Validación OK, datos insertados correctamente
+3:33:33 | INFO | Fin MD03
+4:9:12 | INFO | Inicio del ORQ, cargue de variables iniciales del orquestador
+4:9:26 | INFO | Iniciando módulo de login, carga de variables iniciales
+4:9:30 | INFO | Ingresando credenciales para inicio de sesión
+4:10:31 | ERROR | Unable to log the text to the file because the file path is not found. Verify the file path '' and try again. | Linea error: "18"
+4:18:13 | INFO | Inicio del ORQ, cargue de variables iniciales del orquestador
+4:18:26 | INFO | Iniciando módulo de login, carga de variables iniciales
+4:24:5 | INFO | Inicio del ORQ, cargue de variables iniciales del orquestador
+4:24:11 | INFO | Iniciando módulo de login, carga de variables iniciales
+4:24:14 | INFO | Ingresando credenciales para inicio de sesión
+4:24:28 | INFO | Validando ingreso correcto al inicio principal del aplicativo web
+4:24:29 | INFO | Validando ingreso de credenciales correcto
+4:24:45 | INFO | Finalización de módulo de login
+4:24:45 | INFO | Iniciando MD02, carga de variables iniciales
+4:24:47 | INFO | Extrayendo información de la página web
+4:24:47 | INFO | Extrayendo tabla de la página 1
+4:24:55 | INFO | Extrayendo tabla de la página 2
+4:25:1 | INFO | Extrayendo tabla de la página 3
+4:25:6 | INFO | Información capturada, parseando datos a formato json
+4:25:6 | INFO | Consumo de api, utilizando endpoint para realizar validaciones de stock
+4:25:7 | INFO | Consumo de api, utilizando endpoint para realizar validaciones de product
+4:25:7 | INFO | Obteniendo datos del endpoint de stock para ingresar en inputs
+4:25:7 | INFO | Validando si el valor de los datos son negativos o positivos
+4:25:15 | INFO | Datos insertados correctamente
+4:25:15 | INFO | Obteniendo datos del endpoint de product para ingresar en inputs
+4:25:15 | INFO | Dato del product insertado correctamente
+4:25:16 | INFO | Fin del MD02
+4:25:16 | INFO | Inicio de MD03, validación de estados
+4:25:21 | INFO | Validación OK, datos insertados correctamente
+4:25:21 | INFO | Validación OK, datos insertados correctamente
+4:25:21 | INFO | Validación OK, datos insertados correctamente
+4:25:22 | INFO | Validación OK, datos insertados correctamente
+4:25:22 | INFO | Validación OK, datos insertados correctamente
+4:25:23 | INFO | Validación OK, datos insertados correctamente
+4:25:23 | INFO | Fin del MD03
+4:25:23 | INFO | Fin del ORQ
+4:38:7 | INFO | Inicio del ORQ, cargue de variables iniciales del orquestador
+4:38:16 | INFO | Iniciando módulo de login, carga de variables iniciales
+4:38:21 | INFO | Ingresando credenciales para inicio de sesión
+4:38:46 | INFO | Validando ingreso correcto al inicio principal del aplicativo web
+4:38:48 | INFO | Validando ingreso de credenciales correcto
+4:39:3 | INFO | Finalización de módulo de login
+4:39:3 | INFO | Iniciando MD02, carga de variables iniciales
+4:39:5 | INFO | Extrayendo información de la página web
+4:39:5 | INFO | Extrayendo tabla de la página 1
+4:39:11 | INFO | Extrayendo tabla de la página 2
+4:39:16 | INFO | Extrayendo tabla de la página 3
+4:39:22 | INFO | Información capturada, parseando datos a formato json
+4:39:22 | INFO | Consumo de api, utilizando endpoint para realizar validaciones de stock
+4:39:23 | INFO | Consumo de api, utilizando endpoint para realizar validaciones de product
+4:39:23 | INFO | Obteniendo datos del endpoint de stock para ingresar en inputs
+4:39:23 | INFO | Validando si el valor de los datos son negativos o positivos
+4:39:33 | INFO | Datos insertados correctamente
+4:39:33 | INFO | Obteniendo datos del endpoint de product para ingresar en inputs
+4:39:33 | INFO | Dato del product insertado correctamente
+4:39:34 | INFO | Fin del MD02
+4:39:34 | INFO | Inicio de MD03, validación de estados
+4:39:50 | INFO | Validación OK, datos insertados correctamente
+4:39:50 | INFO | Validación OK, datos insertados correctamente
+4:39:50 | INFO | Validación OK, datos insertados correctamente
+4:39:51 | INFO | Validación OK, datos insertados correctamente
+4:39:52 | INFO | Validación OK, datos insertados correctamente
+4:39:53 | INFO | Validación OK, datos insertados correctamente
+4:39:53 | INFO | Fin del MD03
+4:39:53 | INFO | Fin del ORQ
+4:43:28 | INFO | Inicio del ORQ, cargue de variables iniciales del orquestador
+4:43:37 | INFO | Iniciando módulo de login, carga de variables iniciales
+4:43:43 | INFO | Ingresando credenciales para inicio de sesión
+4:44:19 | ERROR | Unable to log the text to the file because the file path is not found. Verify the file path '' and try again. | Linea error: "18"
+4:45:25 | INFO | Inicio del ORQ, cargue de variables iniciales del orquestador
+4:45:34 | INFO | Iniciando módulo de login, carga de variables iniciales
+4:45:38 | INFO | Ingresando credenciales para inicio de sesión
+4:46:1 | INFO | Validando ingreso correcto al inicio principal del aplicativo web
+4:46:3 | INFO | Validando ingreso de credenciales correcto
+4:46:18 | INFO | Finalización de módulo de login
+4:46:19 | INFO | Iniciando MD02, carga de variables iniciales
+4:46:21 | INFO | Extrayendo información de la página web
+4:46:21 | INFO | Extrayendo tabla de la página 1
+4:46:51 | ERROR | Cannot find window or application titled 'Data - Google Chrome' that was open during recording. | Linea error: "13" | REINTENTO: 0
+4:47:2 | INFO | Iniciando módulo de login, carga de variables iniciales
+4:47:5 | INFO | Ingresando credenciales para inicio de sesión
+4:47:18 | INFO | Validando ingreso correcto al inicio principal del aplicativo web
+4:47:19 | INFO | Validando ingreso de credenciales correcto
+4:47:35 | INFO | Finalización de módulo de login
+4:47:35 | INFO | Iniciando MD02, carga de variables iniciales
+4:47:37 | INFO | Extrayendo información de la página web
+4:47:37 | INFO | Extrayendo tabla de la página 1
+4:48:7 | ERROR | Cannot find window or application titled 'Data - Google Chrome' that was open during recording. | Linea error: "13" | REINTENTO: 0
+4:48:18 | INFO | Iniciando módulo de login, carga de variables iniciales
+4:48:20 | INFO | Ingresando credenciales para inicio de sesión
+4:48:32 | INFO | Validando ingreso correcto al inicio principal del aplicativo web
+4:48:34 | INFO | Validando ingreso de credenciales correcto
+4:48:49 | INFO | Finalización de módulo de login
+4:48:49 | INFO | Iniciando MD02, carga de variables iniciales
+4:48:51 | INFO | Extrayendo información de la página web
+4:48:51 | INFO | Extrayendo tabla de la página 1
+4:49:21 | ERROR | Cannot find window or application titled 'Data - Google Chrome' that was open during recording. | Linea error: "13" | REINTENTO: 0
+4:49:25 | INFO | Se ejecuto la cantidad máxima de reintentos, finalizando bot

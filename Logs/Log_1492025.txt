@@ -1,0 +1,292 @@
+Inicia cargue de variables iniciales del orquestador
+Inicia modulo de extracción de datos
+Extrayendo información de la pagina web
+Inicia modulo de extracción de datos
+Extrayendo información de la pagina web
+Inicia cargue de variables iniciales del orquestador
+Inicia modulo de extracción de datos
+Extrayendo información de la pagina web
+Inicia modulo de extracción de datos
+Extrayendo información de la pagina web
+Inicia modulo de extracción de datos
+Extrayendo información de la pagina web
+Se ejecuto la cantidad maxima de reintentos, finalizando bot
+20:27:3 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+20:27:5 | INFO | Extrayendo información de la página web
+20:27:5 | INFO | Extrayendo tabla de la página 1
+21:52:45 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+21:52:47 | INFO | Extrayendo información de la página web
+21:52:47 | INFO | Extrayendo tabla de la página 1
+21:53:37 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+21:53:39 | INFO | Extrayendo información de la página web
+21:53:39 | INFO | Extrayendo tabla de la página 1
+21:56:57 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+21:56:59 | INFO | Extrayendo información de la página web
+21:57:0 | INFO | Extrayendo tabla de la página 1
+21:57:20 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+21:57:22 | INFO | Extrayendo información de la página web
+21:57:22 | INFO | Extrayendo tabla de la página 1
+22:0:55 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+22:0:57 | INFO | Extrayendo información de la página web
+22:0:57 | INFO | Extrayendo tabla de la página 1
+22:1:45 | INFO | Extrayendo tabla de la página 2
+22:5:43 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+22:5:46 | INFO | Extrayendo información de la página web
+22:5:46 | INFO | Extrayendo tabla de la página 1
+22:5:56 | INFO | Extrayendo tabla de la página 2
+22:5:59 | INFO | Extrayendo tabla de la página 3
+22:14:16 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+22:14:19 | INFO | Extrayendo información de la página web
+22:14:19 | INFO | Extrayendo tabla de la página 1
+22:14:41 | INFO | Extrayendo tabla de la página 2
+22:14:44 | INFO | Extrayendo tabla de la página 3
+22:15:20 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+22:15:23 | INFO | Extrayendo información de la página web
+22:15:23 | INFO | Extrayendo tabla de la página 1
+22:15:28 | INFO | Extrayendo tabla de la página 2
+22:15:31 | INFO | Extrayendo tabla de la página 3
+22:16:40 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+22:16:43 | INFO | Extrayendo información de la página web
+22:16:43 | INFO | Extrayendo tabla de la página 1
+22:16:48 | INFO | Extrayendo tabla de la página 2
+22:16:51 | INFO | Extrayendo tabla de la página 3
+22:17:7 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+22:17:10 | INFO | Extrayendo información de la página web
+22:17:10 | INFO | Extrayendo tabla de la página 1
+22:17:15 | INFO | Extrayendo tabla de la página 2
+22:17:18 | INFO | Extrayendo tabla de la página 3
+22:20:26 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+22:20:28 | INFO | Extrayendo información de la página web
+22:20:28 | INFO | Extrayendo tabla de la página 1
+22:28:20 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+22:28:23 | INFO | Extrayendo información de la página web
+22:28:23 | INFO | Extrayendo tabla de la página 1
+22:28:29 | INFO | Extrayendo tabla de la página 2
+22:28:32 | INFO | Extrayendo tabla de la página 3
+22:28:56 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+22:28:59 | INFO | Extrayendo información de la página web
+22:28:59 | INFO | Extrayendo tabla de la página 1
+22:29:5 | INFO | Extrayendo tabla de la página 2
+22:29:8 | INFO | Extrayendo tabla de la página 3
+22:47:46 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+22:47:48 | INFO | Extrayendo información de la página web
+22:47:48 | INFO | Extrayendo tabla de la página 1
+22:47:55 | INFO | Extrayendo tabla de la página 2
+22:47:58 | INFO | Extrayendo tabla de la página 3
+23:2:19 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:2:21 | INFO | Extrayendo información de la página web
+23:2:21 | INFO | Extrayendo tabla de la página 1
+23:2:31 | INFO | Extrayendo tabla de la página 2
+23:2:34 | INFO | Extrayendo tabla de la página 3
+23:7:48 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:7:51 | INFO | Extrayendo información de la página web
+23:7:51 | INFO | Extrayendo tabla de la página 1
+23:8:47 | INFO | Extrayendo tabla de la página 2
+23:10:28 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:10:30 | INFO | Extrayendo información de la página web
+23:10:30 | INFO | Extrayendo tabla de la página 1
+23:10:44 | INFO | Extrayendo tabla de la página 2
+23:11:35 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:11:37 | INFO | Extrayendo información de la página web
+23:11:37 | INFO | Extrayendo tabla de la página 1
+23:11:43 | INFO | Extrayendo tabla de la página 2
+23:11:45 | INFO | Extrayendo tabla de la página 3
+23:16:11 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:16:13 | INFO | Extrayendo información de la página web
+23:16:13 | INFO | Extrayendo tabla de la página 1
+23:17:11 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:17:13 | INFO | Extrayendo información de la página web
+23:17:13 | INFO | Extrayendo tabla de la página 1
+23:17:36 | INFO | Extrayendo tabla de la página 2
+23:17:39 | INFO | Extrayendo tabla de la página 3
+23:44:47 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:44:49 | INFO | Extrayendo información de la página web
+23:44:49 | INFO | Extrayendo tabla de la página 1
+23:44:57 | INFO | Extrayendo tabla de la página 2
+23:45:1 | INFO | Extrayendo tabla de la página 3
+23:45:4 | ERROR |  | Linea error: "0" | REINTENTO: 1
+23:45:44 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:45:46 | INFO | Extrayendo información de la página web
+23:45:46 | INFO | Extrayendo tabla de la página 1
+23:45:52 | INFO | Extrayendo tabla de la página 2
+23:45:55 | INFO | Extrayendo tabla de la página 3
+23:47:26 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:47:28 | INFO | Extrayendo información de la página web
+23:47:28 | INFO | Extrayendo tabla de la página 1
+23:47:34 | INFO | Extrayendo tabla de la página 2
+23:47:37 | INFO | Extrayendo tabla de la página 3
+23:55:0 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:55:2 | INFO | Extrayendo información de la página web
+23:55:2 | INFO | Extrayendo tabla de la página 1
+23:59:55 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+23:59:58 | INFO | Extrayendo información de la página web
+23:59:58 | INFO | Extrayendo tabla de la página 1
+0:0:20 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:0:22 | INFO | Extrayendo información de la página web
+0:0:22 | INFO | Extrayendo tabla de la página 1
+0:0:28 | INFO | Extrayendo tabla de la página 2
+0:0:31 | INFO | Extrayendo tabla de la página 3
+0:2:34 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:2:36 | INFO | Extrayendo información de la página web
+0:2:36 | INFO | Extrayendo tabla de la página 1
+0:2:42 | INFO | Extrayendo tabla de la página 2
+0:2:45 | INFO | Extrayendo tabla de la página 3
+0:28:49 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:28:51 | INFO | Extrayendo información de la página web
+0:28:51 | INFO | Extrayendo tabla de la página 1
+0:28:58 | INFO | Extrayendo tabla de la página 2
+0:29:0 | INFO | Extrayendo tabla de la página 3
+0:29:3 | ERROR |  | Linea error: "0" | REINTENTO: 1
+0:29:49 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:29:52 | INFO | Extrayendo información de la página web
+0:29:52 | INFO | Extrayendo tabla de la página 1
+0:29:58 | INFO | Extrayendo tabla de la página 2
+0:30:1 | INFO | Extrayendo tabla de la página 3
+0:30:3 | ERROR |  | Linea error: "0" | REINTENTO: 1
+0:30:27 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:30:29 | INFO | Extrayendo información de la página web
+0:30:29 | INFO | Extrayendo tabla de la página 1
+0:30:37 | INFO | Extrayendo tabla de la página 2
+0:30:40 | INFO | Extrayendo tabla de la página 3
+0:33:8 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:33:10 | INFO | Extrayendo información de la página web
+0:33:10 | INFO | Extrayendo tabla de la página 1
+0:34:27 | INFO | Extrayendo tabla de la página 2
+0:34:44 | INFO | Extrayendo tabla de la página 3
+0:39:15 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:39:17 | INFO | Extrayendo información de la página web
+0:39:17 | INFO | Extrayendo tabla de la página 1
+0:40:12 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:40:14 | INFO | Extrayendo información de la página web
+0:40:14 | INFO | Extrayendo tabla de la página 1
+0:40:34 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:40:36 | INFO | Extrayendo información de la página web
+0:40:37 | INFO | Extrayendo tabla de la página 1
+0:41:21 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:41:24 | INFO | Extrayendo información de la página web
+0:41:24 | INFO | Extrayendo tabla de la página 1
+0:42:27 | INFO | Extrayendo tabla de la página 2
+0:43:15 | INFO | Extrayendo tabla de la página 3
+0:45:49 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:45:52 | INFO | Extrayendo información de la página web
+0:45:52 | INFO | Extrayendo tabla de la página 1
+0:46:13 | INFO | Extrayendo tabla de la página 2
+0:46:32 | INFO | Extrayendo tabla de la página 3
+0:48:19 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:48:21 | INFO | Extrayendo información de la página web
+0:48:21 | INFO | Extrayendo tabla de la página 1
+0:48:30 | INFO | Extrayendo tabla de la página 2
+0:48:34 | INFO | Extrayendo tabla de la página 3
+0:49:4 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:49:7 | INFO | Extrayendo información de la página web
+0:49:7 | INFO | Extrayendo tabla de la página 1
+0:49:14 | INFO | Extrayendo tabla de la página 2
+0:49:18 | INFO | Extrayendo tabla de la página 3
+0:55:26 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:55:28 | INFO | Extrayendo información de la página web
+0:55:28 | INFO | Extrayendo tabla de la página 1
+0:55:41 | INFO | Extrayendo tabla de la página 2
+0:55:46 | INFO | Extrayendo tabla de la página 3
+0:56:4 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+0:56:6 | INFO | Extrayendo información de la página web
+0:56:6 | INFO | Extrayendo tabla de la página 1
+0:56:15 | INFO | Extrayendo tabla de la página 2
+0:56:20 | INFO | Extrayendo tabla de la página 3
+1:5:21 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:5:24 | INFO | Extrayendo información de la página web
+1:5:24 | INFO | Extrayendo tabla de la página 1
+1:5:33 | INFO | Extrayendo tabla de la página 2
+1:5:38 | INFO | Extrayendo tabla de la página 3
+1:5:44 | ERROR |  | Linea error: "0" | REINTENTO: 1
+1:6:22 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:6:24 | INFO | Extrayendo información de la página web
+1:6:24 | INFO | Extrayendo tabla de la página 1
+1:6:33 | INFO | Extrayendo tabla de la página 2
+1:6:51 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:6:53 | INFO | Extrayendo información de la página web
+1:6:53 | INFO | Extrayendo tabla de la página 1
+1:7:1 | INFO | Extrayendo tabla de la página 2
+1:7:6 | INFO | Extrayendo tabla de la página 3
+1:7:12 | ERROR |  | Linea error: "0" | REINTENTO: 1
+1:8:43 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:8:45 | INFO | Extrayendo información de la página web
+1:8:45 | INFO | Extrayendo tabla de la página 1
+1:8:55 | INFO | Extrayendo tabla de la página 2
+1:9:0 | INFO | Extrayendo tabla de la página 3
+1:13:5 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:13:8 | INFO | Extrayendo información de la página web
+1:13:8 | INFO | Extrayendo tabla de la página 1
+1:13:20 | INFO | Extrayendo tabla de la página 2
+1:13:24 | INFO | Extrayendo tabla de la página 3
+1:20:35 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:20:37 | INFO | Extrayendo información de la página web
+1:20:37 | INFO | Extrayendo tabla de la página 1
+1:20:46 | INFO | Extrayendo tabla de la página 2
+1:20:51 | INFO | Extrayendo tabla de la página 3
+1:21:40 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:21:42 | INFO | Extrayendo información de la página web
+1:21:42 | INFO | Extrayendo tabla de la página 1
+1:21:50 | INFO | Extrayendo tabla de la página 2
+1:21:55 | INFO | Extrayendo tabla de la página 3
+1:30:41 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:30:43 | INFO | Extrayendo información de la página web
+1:30:43 | INFO | Extrayendo tabla de la página 1
+1:30:56 | INFO | Extrayendo tabla de la página 2
+1:31:1 | INFO | Extrayendo tabla de la página 3
+1:39:33 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:39:35 | INFO | Extrayendo información de la página web
+1:39:35 | INFO | Extrayendo tabla de la página 1
+1:39:48 | INFO | Extrayendo tabla de la página 2
+1:39:54 | INFO | Extrayendo tabla de la página 3
+1:44:55 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:44:57 | INFO | Extrayendo información de la página web
+1:44:57 | INFO | Extrayendo tabla de la página 1
+1:45:7 | INFO | Extrayendo tabla de la página 2
+1:45:13 | INFO | Extrayendo tabla de la página 3
+1:46:44 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:46:46 | INFO | Extrayendo información de la página web
+1:46:46 | INFO | Extrayendo tabla de la página 1
+1:46:55 | INFO | Extrayendo tabla de la página 2
+1:47:2 | INFO | Extrayendo tabla de la página 3
+1:49:35 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:49:37 | INFO | Extrayendo información de la página web
+1:49:37 | INFO | Extrayendo tabla de la página 1
+1:49:46 | INFO | Extrayendo tabla de la página 2
+1:49:52 | INFO | Extrayendo tabla de la página 3
+1:51:4 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:51:7 | INFO | Extrayendo información de la página web
+1:51:7 | INFO | Extrayendo tabla de la página 1
+1:51:16 | INFO | Extrayendo tabla de la página 2
+1:51:21 | INFO | Extrayendo tabla de la página 3
+1:59:45 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+1:59:47 | INFO | Extrayendo información de la página web
+1:59:47 | INFO | Extrayendo tabla de la página 1
+1:59:58 | INFO | Extrayendo tabla de la página 2
+2:0:4 | INFO | Extrayendo tabla de la página 3
+2:28:16 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+2:28:19 | INFO | Extrayendo información de la página web
+2:28:19 | INFO | Extrayendo tabla de la página 1
+2:28:30 | INFO | Extrayendo tabla de la página 2
+2:28:35 | INFO | Extrayendo tabla de la página 3
+2:39:11 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+2:39:13 | INFO | Extrayendo información de la página web
+2:39:13 | INFO | Extrayendo tabla de la página 1
+2:39:26 | INFO | Extrayendo tabla de la página 2
+2:39:32 | INFO | Extrayendo tabla de la página 3
+2:40:42 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+2:40:44 | INFO | Extrayendo información de la página web
+2:40:44 | INFO | Extrayendo tabla de la página 1
+2:40:53 | INFO | Extrayendo tabla de la página 2
+2:40:59 | INFO | Extrayendo tabla de la página 3
+2:48:29 | INFO | Iniciando módulo de extracción de datos, carga de variables iniciales
+2:48:31 | INFO | Extrayendo información de la página web
+2:48:31 | INFO | Extrayendo tabla de la página 1
+2:48:41 | INFO | Extrayendo tabla de la página 2
+2:48:47 | INFO | Extrayendo tabla de la página 3
+3:30:0 | INFO | Validación OK, datos insertados correctamente
+3:30:1 | INFO | Validación OK, datos insertados correctamente
+3:30:1 | INFO | Validación OK, datos insertados correctamente
+3:30:2 | INFO | Validación OK, datos insertados correctamente
+3:30:3 | INFO | Validación OK, datos insertados correctamente
+3:30:4 | INFO | Validación OK, datos insertados correctamente
+3:30:4 | INFO | Fin MD03
